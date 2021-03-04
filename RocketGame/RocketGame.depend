@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1481809772 source:/home/userfs/h/ht932/Documents/RocketGame/lib/graphics_lib.c
+	<graphics_lib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1483975232 /home/userfs/h/ht932/Documents/RocketGame/inc/graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1481193530 source:/home/userfs/h/ht932/Documents/RocketGame/lib/midi_lib.c
+	"midi_lib.h"
+
+1483976292 /home/userfs/h/ht932/Documents/RocketGame/inc/midi_lib.h
+	<stdlib.h>
+	<portmidi.h>
+	<porttime.h>
+	<stdio.h>
+
